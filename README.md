@@ -1,8 +1,12 @@
 # StarGAN v2
 A Pytorch implementation of [StarGAN v2: Diverse Image Synthesis for Multiple Domains](https://arxiv.org/abs/1912.01865) trained with CelebA dataset.  
 
+> Kaggle Notebook: [Link](https://www.kaggle.com/code/kimjiyeop/stargan-v2/)
+
 ## Implementation Details
 ```
+Training on Kaggle GPU for 32 hours
+
 dimension
  - style vector (s): 64
  - latent vector (z): 64
