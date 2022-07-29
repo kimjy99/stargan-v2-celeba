@@ -28,12 +28,12 @@ number of train images: 182637
 ```
 
 ## Outputs for images in test dataset
-#### Good outputs
+### Good outputs
 <p align="center">
-  <img src="./images/test-large.png" style="width:500px;"/>
+  <img src="./images/test-large.png" style="width:700px;"/>
 </p>
 
-#### All outputs
+### All outputs
 <p align="center">
-  <img src="./images/test.png" style="width:500px;"/>
+  <img src="./images/test.png" style="width:700px;"/>
 </p>
